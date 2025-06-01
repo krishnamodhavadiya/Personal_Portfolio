@@ -1,6 +1,6 @@
 # Krishna Modhavadiya's Portfolio
 
-![Portfolio Preview](Image/a.jpg)
+![Portfolio Preview](krishna.png)
 
 A modern, responsive portfolio website showcasing my skills, projects, and services as a web developer and designer.
 
